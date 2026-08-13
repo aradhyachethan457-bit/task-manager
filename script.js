@@ -1,3 +1,5 @@
+console.log("Urgent bug fix");
+
 const input = document.querySelector("input");
 const button = document.querySelector("button");
 const taskList = document.querySelector("#taskList");
