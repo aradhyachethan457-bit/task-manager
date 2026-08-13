@@ -1,2 +1,2 @@
 # task manager 
- a simple task management applicationn
+A simple task management applicationn
