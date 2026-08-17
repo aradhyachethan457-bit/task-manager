@@ -34,3 +34,6 @@ A simple web-based task management application.
 - Add task priority
 - Add task due dates
 - Add user authentication
+
+Edit task feature added
+
