@@ -18,6 +18,15 @@ button.addEventListener("click", function () {
             li.remove();
         });
 
+        const completeButton = document.createElement("button");
+        completeButton.textContent = "Complete";
+
+        completeButton.addEventListener("click", function () {
+        li.style.textDecoration = "line-through";
+        });
+
+        li.appendChild(completeButton);
+
         li.appendChild(deleteButton);
         taskList.appendChild(li);
 
